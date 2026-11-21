@@ -6,22 +6,21 @@ I'm passionate about software development and building practical technology solu
 
 ### 💻 Technologies & Tools
 
-C#
-Python
-JavaScript
-SQL
-Web Development
-ASP.NET MVC
-HTML
-CSS
+- C#
+- Python
+- JavaScript
+- SQL
+- ASP.NET MVC
+- HTML
+- CSS
 
 Databases
-Microsoft SQL Server
+- Microsoft SQL Server
 
 Tools
-Git
-GitHub
-Visual Studio
+- Git
+- GitHub
+- Visual Studio
 
 ### 🚀 Areas of Interest
 
